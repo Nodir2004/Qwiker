@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495187449917",
+    "project_id": "qwiker-e5598",
+    "storage_bucket": "qwiker-e5598.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495187449917:android:2718d5b0f3a80ccc5df254",
+        "android_client_info": {
+          "package_name": "com.example.qwiker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_rSH7pBwG4ObUnevpeMUjS4uV-lEGaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
